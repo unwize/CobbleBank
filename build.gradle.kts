@@ -12,8 +12,6 @@ application {
     mainClass = "com.unwize.cobblebank.Main"
 }
 
-
-
 repositories {
     mavenCentral()
 }
