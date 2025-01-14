@@ -1,0 +1,87 @@
+{
+  "BenchedMoves": [
+    {
+      "MoveName": "aquaring",
+      "RaisedPPStages": 0
+    },
+    {
+      "MoveName": "judgment",
+      "RaisedPPStages": 0
+    }
+  ],
+  "ScaleModifier": 1.0,
+  "Shiny": false,
+  "Ability": {
+    "AbilityName": "beastboost",
+    "AbilityForced": true
+  },
+  "Gender": "GENDERLESS",
+  "IVs": {
+    "cobblemon:hp": 9,
+    "cobblemon:special_attack": 27,
+    "cobblemon:defence": 6,
+    "cobblemon:speed": 30,
+    "cobblemon:attack": 30,
+    "cobblemon:special_defence": 8
+  },
+  "EVs": {
+    "cobblemon:hp": 0,
+    "cobblemon:special_attack": 0,
+    "cobblemon:defence": 0,
+    "cobblemon:speed": 0,
+    "cobblemon:attack": 0,
+    "cobblemon:special_defence": 0
+  },
+  "MoveSet": [
+    {
+      "MoveName": "explosion",
+      "MovePP": 5,
+      "RaisedPPStages": 0
+    },
+    {
+      "MoveName": "sandstorm",
+      "MovePP": 10,
+      "RaisedPPStages": 0
+    },
+    {
+      "MoveName": "powersplit",
+      "MovePP": 10,
+      "RaisedPPStages": 0
+    },
+    {
+      "MoveName": "guardsplit",
+      "MovePP": 10,
+      "RaisedPPStages": 0
+    }
+  ],
+  "Level": 50,
+  "Experience": 125000,
+  "Friendship": 50,
+  "Health": 104,
+  "UUID": [
+    -1177282805,
+    2075019595,
+    -1547457506,
+    -462432561
+  ],
+  "Species": "cobblemon:baltoy",
+  "FormId": "normal",
+  "TeraType": "cobblemon:psychic",
+  "DmaxLevel": 0,
+  "GmaxFactor": false,
+  "Tradeable": true,
+  "PersistentData": {},
+  "HealingTimer": 60,
+  "Evolutions": {
+    "pending": [
+      "baltoy_claydol"
+    ],
+    "progress": []
+  },
+  "Nature": "cobblemon:mild",
+  "CaughtBall": "cobblemon:poke_ball",
+  "FaintedTimer": -1,
+  "PokemonOriginalTrainerType": "PLAYER",
+  "PokemonOriginalTrainer": "93e4e551-589a-41cb-ab2d-435266c8e035",
+  "cobblemon:data_version": 1
+}
