@@ -22,6 +22,10 @@ dependencies {
     implementation("io.javalin:javalin:6.4.0")
     implementation("org.slf4j:slf4j-simple:2.0.16")
     implementation("com.alibaba:fastjson:2.0.54")
+
+    implementation("org.hibernate.orm:hibernate-core:6.6.4.Final")
+    implementation("org.hibernate.orm:hibernate-envers:6.6.4.Final")
+
 }
 
 tasks.test {
